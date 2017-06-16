@@ -1,0 +1,21 @@
+SPIDER-MAN PROJECT DEVELOPMENT NOTES.
+
+GITHUB Log In:
+
+Username: SpiderManProjectUE4
+Password: SpideysWeb01
+
+Coles Notes:
+
+(gameplay)
+
+Double jump on mid air needs to be fixed / deactivated (realistic gravity laws)
+
+Time cooldown before can sling next swing-web, which will fix multiple bugs when swinging too early after releasing
+
+Stronger web boost when swinging (potential upgrade system options further down the line / not priority at this stage)
+
+(anims)
+
+Landing/Idle needs to be more Spider-Man like. (new amim)
+Diving pose after so long in standard fall pose. (pre-made anim, apply by chance/countdown)
