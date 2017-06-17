@@ -20,9 +20,15 @@
 *.app
 *.log
 *.pdb
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 SpiderManProject/Saved/Logs/SpiderManProject.log
 SpiderManProject/Config/DefaultEditor.ini
+/SpiderManProject/Saved/Logs/SpiderManProject.log
+/SpiderManProject/Config/DefaultEditor.ini
