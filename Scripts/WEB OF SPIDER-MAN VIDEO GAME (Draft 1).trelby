@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:113
-Cursor/Column:5
+Cursor/Line:129
+Cursor/Column:34
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -288,3 +288,19 @@ Words:0
 .%GAMEPLAY MODE
 >.We seamlessly transition from the cutscene into GAMEPLAY
 ..MODE.
+>.SPIDEY is PERCHING on a beam across the ceiling, looking
+..down at the ROBBERS.
+._SPIDER-MAN
+.((Whisper)
+.:Coming right at ya...
+>.The PLAYER must successfully take down all enemies in the
+..area before they can move on.
+./Game to:
+.\Int. Nyc bank (Hallways) - night
+>.As the PLAYER makes his way through the hallways of the BANK
+>.-- hs is ran at by thugs, this is where they learn the meat
+..of the combat system.
+>.Once all enemies are taken care of, the player progresses
+..into the next area of the mission.
+./GAME TO:
+.\Int. Nyc bank (vault room) - night
