@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:32
-Cursor/Column:49
+Cursor/Line:113
+Cursor/Column:5
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -184,9 +184,11 @@ Words:0
 >.We begin to hear a loud alarm bell ringing in the distance
 ..-- a place being robbed!
 ./CUT TO:
-.\Int. Nyc bank - night
+.\Int. Nyc bank (MAIN LOBBY) - night
 >.We see a bunch of armed goons breaking into a bank, which is
-..closed.
+>.closed. Amongst them is HERMAN SCHULTZ (funny looking,
+>.mid-30's) and FLINT MARKO (thick, also mid-30's) -- they
+..enter the BANK with their guns in hand, ready.
 ._Herman schultz
 >:Money's calling boys... Let's do
 .:this before the pigs show up!
@@ -196,10 +198,11 @@ Words:0
 >:First thing I'm doing once I get my
 >:take... Is getting a good ol'beer
 .:and putting my feet up...
-..Suddenly a youtful voice emerges:
+..Suddenly a youthful voice emerges:
 ._Spider-man (o.s.)
->:You forgot to add that you'll be in
-.:a jail cell.
+>:You forgot to add that you'll be
+>:sharing a jail cell with Jamal and
+.:Hasus.
 ..All robbers, including HERMAN, jump from surprise.
 ._HERMAN SCHULTZ
 .:Who the Hell said that?!
@@ -207,3 +210,81 @@ Words:0
 >:It's me... Your conscience... Yeah,
 .:we don't talk much these days...
 ..SPIDEY is not in sight, the thugs begin to panic.
+._Robber 3
+.:Schultz, man. I don't like this...
+._HERMAN SCHULTZ
+.:Don't say my name ya idiot!
+._SPIDER-MAN (O.S.)
+>:He's the idiot? Wow, okay, that's
+>:coming from a guy who sounds like
+.:he just came from the Wild West.
+>.Suddenly, ROBBER 3 is WEBBED UP to the ceiling -- comedic
+>.moment, nothing in sight above -- except the hanging body of
+..ROBBER 3, covered in webbing.
+._Robber 4
+.:Oh man...
+._Flint marko
+.:Whada'we do, S?
+._HERMAN SCHULTZ
+.:What we always do...
+._FLINT MARKO
+.:Which is?...
+._HERMAN SCHULTZ
+>:Spread out! Kill that little
+.:bastard then bust the vault!
+..Suddenly, SPIDEY crawls out of the shadows -- exposed.
+._SPIDER-MAN
+>:Here I am, maybe this'll give you a
+.:hand.
+._FLINT MARKO
+.:Oh no! It's the Devil guy!
+._HERMAN SCHULTZ
+.:What?!
+._ROBBER 5
+>:Daredevil man! He had my cousin
+>:Lenny locked up with four broken
+.:bones and six fractures...
+._FLINT MARKO
+.:This wasn't part of the plan!
+._HERMAN SCHULTZ
+.:It comes with the job!
+._SPIDER-MAN
+>:Ahem. Guys... I'm not...
+.:Daredevil...
+._FLINT MARKO
+.:W-What???...
+._SPIDER-MAN
+.:I'm... NOT... Daredevil?...
+._ROBBER 5
+.:Then who the Hell are ya?!
+._SPIDER-MAN
+.:Spider-Man.
+._FLINT MARKO
+.:Who?
+._SPIDER-MAN
+>:Spider-Man???... Come on guys...
+>:Web-Swinging, crime fighting,
+.:genius?...
+._HERMAN SCHULTZ
+>:Ain't gonna matter for long, kill
+.:him!
+..All men aim their large guns at SPIDEY.
+._SPIDER-MAN
+>((Scared, yet comical
+.(scream)
+.:ARGHH!!!
+>.SPIDEY leaps up into the air, webbing the guns off both
+>.HERMAN and FLINT -- however, all the other ROBBER'S in the
+..room, still have their guns.
+>.HERMAN and FLINT run into the next room, shouting as they
+..do:
+._HERMAN SCHULTZ
+>:We'll handle the vault, you find
+>:that little shit and bring me his
+.:head!
+._ROBBER 5
+>:On it, boss! Alright Spider... Come
+.:out!
+.%GAMEPLAY MODE
+>.We seamlessly transition from the cutscene into GAMEPLAY
+..MODE.
